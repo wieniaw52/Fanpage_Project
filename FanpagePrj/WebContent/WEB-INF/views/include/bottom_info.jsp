@@ -8,7 +8,7 @@
 				<li><a href="https://blog.bootswatch.com/">Blog</a></li>
 				<li><a href="https://blog.bootswatch.com/rss/">RSS</a></li>
 				<li><a href="https://twitter.com/bootswatch">Twitter</a></li>
-				<li><a href="https://github.com/thomaspark/bootswatch">GitHub</a></li>
+				<li><a href="https://github.com/wieniaw52">GitHub</a></li>
 				<li><a href="../help/#api">API</a></li>
 				<li><a href="../help/#donate">Donate</a></li>
 			</ul>

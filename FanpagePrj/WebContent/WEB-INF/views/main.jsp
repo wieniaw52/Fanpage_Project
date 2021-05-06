@@ -9,8 +9,12 @@
     <meta charset="utf-8">
     <title>KANJANI8 FANPAGE</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://bootswatch.com/4/litera/bootstrap.css">
     <link rel="stylesheet" href="https://bootswatch.com/_assets/css/custom.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23019901-1"></script>
     <script>
@@ -28,7 +32,7 @@
       <div class="page-header" id="banner">
         <div class="row">
           <div class="col-lg-8 col-md-7 col-sm-6">
-            <h1 style="font-family:'BIZ UDP明朝';">関ジャニ∞</h1><br>
+            <h1 style="font-family:'BIZ UD明朝';">関ジャニ∞</h1><br>
             <img alt="index_hero" src="${root }image/index_hero.jpg" width="500px"><br><br>
             <p class="lead" style="font-family:'DX시인과나';">
             칸쟈니∞의 팬페이지입니다.<br>
@@ -43,9 +47,5 @@
       </div>
     <c:import url="/WEB-INF/views/include/bottom_info.jsp"/>
     </div>
-
-    <script src="https://bootswatch.com/_vendor/jquery/dist/jquery.min.js"></script>
-    <script src="https://bootswatch.com/_vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://bootswatch.com/_assets/js/custom.js"></script>
   </body>
 </html>

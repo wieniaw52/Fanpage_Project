@@ -11,13 +11,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="${root}search">음악 찾기</a>
+              <a class="nav-link" href="${root}search/main">음악 찾기</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="${root }board/main">자유게시판</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="${root }board/main">요청게시판</a>
+            </li>
+            <li class="nav-item">
+				&nbsp;
             </li>
           </ul>
           <ul class="navbar-nav ml-auto">  
